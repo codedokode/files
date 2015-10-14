@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="286.48999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="sample.svgz">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5733">
+      <stop
+         offset="0"
+         id="stop5735"
+         style="stop-color:#e8e4e4;stop-opacity:1;" />
+      <stop
+         offset="1"
+         id="stop5737"
+         style="stop-color:#d2d2d2;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5733"
+       id="linearGradient5739"
+       x1="596.1236"
+       y1="566.75873"
+       x2="595.86261"
+       y2="585.14349"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="356.29669"
+     inkscape:cy="66.891327"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10">
+    <sodipodi:guide
+       orientation="1,0"
+       position="10.02843,69.221954"
+       id="guide2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Слой"
+     style="display:inline"
+     transform="translate(0,-1.5100052)">
+    <path
+       style="fill:#d1eefb;fill-opacity:1;stroke:#d1eefb;stroke-width:12;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path5785"
+       d="m 220.65726,79.58513 c 7.11358,0.287445 14.23344,0.382678 21.34914,0.168084 11.4309,-0.784144 24.8469,-4.527064 36.21129,-5.992786 8.25942,-1.214369 14.50745,0.301407 22.83652,-0.314558 6.57852,-0.43158 13.17089,-0.38637 19.75899,-0.416876 6.53789,0.220222 13.07202,0.505276 19.61316,0.61552 4.64916,0.02147 9.28637,0.402882 13.92977,0.603419 3.49434,0.141004 6.97258,0.525269 10.46413,0.730957 3.8045,0.09108 7.5895,0.484226 11.38813,0.694008 4.639,0.275386 9.27008,0.64243 13.91493,0.831966 3.82996,0.137884 7.6441,0.532071 11.47226,0.72661 3.71158,0.172484 7.42857,0.181782 11.14342,0.204577 3.90143,-0.111058 7.78338,0.09668 11.6734,0.354002 3.3726,0.2319 2.0025,-0.937591 5.38217,-0.91579 2.50034,-0.0042 -3.95207,7.984333 -1.45174,7.975933 2.17752,-0.01375 -10.2264,-2.849446 -8.04885,-2.859966 3.16956,3.7447 14.40801,-2.332723 16.74182,-4.10516 l -5.89036,2.055992 -2.06802,2.737437 c -0.90691,-0.0042 -1.33679,-4.336927 -2.24371,-4.341437 -2.1659,-0.0085 9.98713,4.77507 7.82125,4.76447 -2.47705,-0.0074 -6.36869,1.418414 -8.84508,1.348844 -3.36851,-0.08251 -6.73882,-0.166434 -10.09928,-0.428608 -3.86105,-0.276899 -7.72162,-0.410562 -11.59383,-0.325727 -3.74781,-0.0053 -7.49643,-0.02581 -11.24081,-0.205899 -3.79163,-0.248286 -7.57205,-0.659546 -11.37098,-0.788258 -4.64453,-0.272245 -9.28243,-0.66036 -13.93259,-0.829967 -3.83173,-0.231625 -7.6598,-0.524021 -11.49807,-0.620566 -3.4707,-0.225617 -6.92453,-0.684562 -10.40474,-0.761157 -4.54621,-0.282124 -9.08545,-0.719332 -13.64307,-0.77383 -6.50816,-0.21158 -11.51474,0.273496 -18.02401,0.104418 -6.56184,0.0021 -14.62957,-0.67892 -21.18172,-0.29957 -8.15485,0.596871 -16.24505,1.706339 -24.35025,2.766238 -11.41174,1.367612 -14.86507,4.820939 -26.32237,5.71706 -7.45198,0.287794 -19.65897,0.747577 -27.11144,1.025957 l 7.87054,-16.944814 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.02842957,-440.09411)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:66.8116684px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="9.999999"
+       y="478.79333"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="9.999999"
+         y="478.79333"
+         style="font-size:40.08700180000000300px;fill:#0f178e;fill-opacity:1;-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan3771">Ближе к делу, хватит теории!</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3763"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,652.36218)"><flowRegion
+         id="flowRegion3765"><rect
+           id="rect3767"
+           width="301.42856"
+           height="77.85714"
+           x="10"
+           y="-10.714286" /></flowRegion><flowPara
+         id="flowPara3769"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:66.8116684px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="8.8069334"
+       y="524.12988"
+       id="text3775"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3777"
+         x="8.8069334"
+         y="524.12988"
+         style="font-size:23.38408469999999900px;-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Создаем массив с вручную заданными ключами: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="10"
+       y="91.428574"
+       id="text3779"
+       sodipodi:linespacing="125%"
+       transform="translate(0,652.36218)"><tspan
+         sodipodi:role="line"
+         id="tspan3781"
+         x="10"
+         y="91.428574"></tspan></text>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4546"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000088;fill-opacity:1;stroke:#000088;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4548"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="242"
+         x="100"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000088;fill-opacity:1;stroke:none;font-family:Courier New">$user</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4550"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4552"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="242"
+         x="135"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New"> </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4554"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:#339933;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4556"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="242"
+         x="142"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:none;font-family:Courier New">=</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4558"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4560"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="242"
+         x="149"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New"> </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4562"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#990000;fill-opacity:1;stroke:#990000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4564"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="242"
+         x="156"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#990000;fill-opacity:1;stroke:none;font-family:Courier New">array</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4566"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#009900;fill-opacity:1;stroke:#009900;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4568"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="242"
+         x="191"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#009900;fill-opacity:1;stroke:none;font-family:Courier New">(</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4578"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4580"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="262"
+         x="107"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Courier New">'name'</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4582"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4584"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="262"
+         x="149"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New">  </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4586"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:#339933;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4588"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="262"
+         x="163"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:none;font-family:Courier New">=&gt;</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4590"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4592"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="262"
+         x="177"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New"> </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4594"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4596"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="262"
+         x="184"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Courier New">'Ivan'</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4598"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:#339933;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4600"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="262"
+         x="226"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:none;font-family:Courier New">,</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4610"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4612"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="282"
+         x="107"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Courier New">'email'</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4614"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4616"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="282"
+         x="156"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New">  </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4618"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:#339933;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4620"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="282"
+         x="170"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:none;font-family:Courier New">=&gt;</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4622"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4624"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="282"
+         x="184"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New"> </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4626"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4628"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="282"
+         x="191"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Courier New">'ivan@example.com'</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4630"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:#339933;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4632"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="282"
+         x="317"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:none;font-family:Courier New">,</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4642"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4644"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="302"
+         x="107"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Courier New">'karma'</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4646"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4648"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="302"
+         x="156"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New">  </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4650"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:#339933;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4652"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="302"
+         x="170"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:none;font-family:Courier New">=&gt;</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4654"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:#000066;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4656"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="302"
+         x="184"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#000066;fill-opacity:1;stroke:none;font-family:Courier New"> </text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4658"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#cc66cc;fill-opacity:1;stroke:#cc66cc;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4660"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="302"
+         x="191"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#cc66cc;fill-opacity:1;stroke:none;font-family:Courier New">5</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4668"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#009900;fill-opacity:1;stroke:#009900;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4670"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="322"
+         x="100"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#009900;fill-opacity:1;stroke:none;font-family:Courier New">)</text>
+    </g>
+    <g
+       transform="matrix(1.6346214,0,0,1.6346214,-153.46214,187.74579)"
+       id="g4672"
+       font-style="normal"
+       font-weight="400"
+       font-size="12"
+       style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:#339933;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Courier New">
+      <text
+         id="text4674"
+         font-style="normal"
+         font-weight="400"
+         font-size="12"
+         y="322"
+         x="107"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:400;fill:#339933;fill-opacity:1;stroke:none;font-family:Courier New">;</text>
+    </g>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.85250777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 379.43378,642.53862 c 0,0 28.84761,13.7664 43.95829,6.4783 15.11065,-7.28809 27.47391,-31.5817 39.37929,-37.25022 11.90537,-5.66853 29.76341,0.80979 29.76341,0.80979 l -8.70006,7.28809"
+       id="path5533"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.70697175999999995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 492.58951,613.48303 -7.43583,-9.91098"
+       id="path5535"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#linearGradient5739);fill-opacity:1;stroke:#615353;stroke-width:1.67029177999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 497.96382,567.08022 c 0,0 168.81878,3.57918 207.5934,-4.17573 l 1.19308,23.26478 -208.78648,-0.59655 c 0,0 1.7896,-0.59653 0,-18.4925 z"
+       id="path5541"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#615353;stroke-width:1.67029177999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 497.96382,585.57272 c 0,0 4.17573,29.82665 2.38613,48.9157 -1.7896,19.08904 -1.7896,16.10639 1.7896,24.45785 0,0 189.69743,-4.17573 206.99687,-2.38615 l -1.7896,-69.79433"
+       id="path5545"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#615353;stroke-width:1.67029177999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 501.54301,611.22364 c 0,0 158.08119,-6.56186 205.80381,-4.77227"
+       id="path5547"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#615353;stroke-width:1.67029177999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 500.94648,635.68147 c 0,0 164.04652,-4.77225 206.99687,-2.38612"
+       id="path5549"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#615353;stroke-width:1.67029177999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="m 572.53041,587.36232 c 0,0 1.19307,53.09143 5.3688,70.9874"
+       id="path5551"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       x="502.72452"
+       y="580.78809"
+       id="text5749"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5751"
+         x="502.72452"
+         y="580.78809">$user</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3165f3;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       x="506.99557"
+       y="163.41718"
+       id="text5753"
+       sodipodi:linespacing="125%"
+       transform="translate(-0.02842957,438.58411)"><tspan
+         sodipodi:role="line"
+         id="tspan5755"
+         x="506.99557"
+         y="163.41718"
+         style="fill:#3165f3;fill-opacity:1;-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">name</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5757"
+       y="626.04291"
+       x="507.67426"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3165f3;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       xml:space="preserve"><tspan
+         style="fill:#3165f3;fill-opacity:1;-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         y="626.04291"
+         x="507.67426"
+         sodipodi:role="line"
+         id="tspan5761">email</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3165f3;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       x="508.38135"
+       y="650.79163"
+       id="text5765"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5767"
+         sodipodi:role="line"
+         x="508.38135"
+         y="650.79163"
+         style="fill:#3165f3;fill-opacity:1;-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">karma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       x="578.38489"
+       y="601.29419"
+       id="text5769"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5771"
+         x="578.38489"
+         y="601.29419">Ivan</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5773"
+       y="623.92163"
+       x="579.09198"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       xml:space="preserve"><tspan
+         y="623.92163"
+         x="579.09198"
+         id="tspan5775"
+         sodipodi:role="line">ivan@example.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a2119e;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       x="583.33459"
+       y="649.37744"
+       id="text5777"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5779"
+         x="583.33459"
+         y="649.37744">5</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5789"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Trebuchet MS;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Trebuchet MS;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion5791"><rect
+           id="rect5793"
+           width="590"
+           height="110"
+           x="-21"
+           y="-10.51001"
+           style="-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara5795"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5797"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:14px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion5799"><rect
+           id="rect5801"
+           width="255"
+           height="119"
+           x="479"
+           y="118.48999" /></flowRegion><flowPara
+         id="flowPara5803"></flowPara></flowRoot>  </g>
+</svg>

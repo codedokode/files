@@ -1,0 +1,116 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+         "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <desc>Test</desc>
+
+
+        <g transform="translate(-250,-250)">
+            <svg x="50%" y="50%" width="500px" height="500px">
+                <g transform="translate(0,0)" id="imagesScroller">
+                    <animateTransform id="imagesAnimate" attributeName="transform" attributeType="XML" type="translate"
+                calcMode="paced" fill="remove" to="-500,0" dur="1s" begin="indefinite" additive="sum" accumulate="sum" onend="scroller.onEnd()" />
+                    <image id="i1" xlink:href="http://pixelbyte.ru/assets/sites/2009/medium/dboss2.jpg"
+                x="0" y="0" width="500px" height="500px" opacity="0.2">
+                            <animate attributeName="opacity" to="1" dur="3s"  fill="freeze" begin="0" />
+                    </image>
+                    <image xlink:href="http://pixelbyte.ru/assets/sites/2009/medium/dboss1.jpg"
+                x="500" y="0" width="500px" height="500px" />
+                    <image xlink:href="http://pixelbyte.ru/assets/sites/2009/medium/pf1.jpg"
+                x="1000" y="0" width="500px" height="500px" />
+                    <image xlink:href="http://pixelbyte.ru/assets/sites/2009/medium/pf3.jpg"
+                x="1500" y="0" width="500px" height="500px" />
+                    <image xlink:href="http://pixelbyte.ru/assets/sites/2009/medium/pf4.jpg"
+                x="2000" y="0" width="500px" height="500px" />
+                </g>
+                <rect x="0" y="0" width="500px" height="500px" fill="none" stroke="#fcc" stroke-width="10px" />
+            </svg>
+        </g>
+
+
+        <rect id="rightBtn" x="50%" y="50%" width="40px" height="40px" fill="#fff" stroke="#888" transform="translate(290, -20)" onclick="scroller.tryRight()">
+            <animateColor calcMode="linear" to="#f0f0f0" attributeName="fill" dur="2s" begin="rightBtn.mouseover"
+            additive="sum" fill="freeze" restart="always" />
+            <animateColor calcMode="linear" to="#ffffff" attributeName="fill" dur="2s" begin="rightBtn.mouseout"
+            additive="sum"  fill="freeze"  restart="always" />
+        </rect>
+        <rect id="leftBtn" x="50%" y="50%" width="40px" height="40px" fill="#fff" stroke="#888" transform="translate(-330, -20)"  onclick="scroller.tryLeft()" />
+
+        <script>
+        <![CDATA[
+
+        function Scroller(elt, anim, offset, count)
+        {
+            this._scroller = elt;
+            this._animator = anim;
+            this._offset = offset;
+            this._count = count;
+            this._active = 0;
+
+            this._target = offset;
+            this.init(offset);
+
+            var that = this;
+            //anim.addEventListener('end', function() { that.onEnd(); }, false);
+            //anim.beginElement();
+
+            window.addEventListener('keydown', function (e) { that.onKeyDown(e); }, false);
+        }
+
+        Scroller.prototype = {
+            imgSize: 500,
+
+            _setTo: function (ofs) {
+                this._scroller.transform.baseVal.getItem(0).setTranslate(-ofs, 0);
+            },
+
+            init: function (offset) {
+                this._offset = offset;
+                this._setTo(offset);
+            },
+
+            onEnd: function () {
+                this._setTo(this._target);
+            },
+
+            startTo: function (targetNo) {
+                targetNo = parseInt(targetNo);
+                var targetPos = targetNo * this.imgSize;
+
+                if (targetNo < 0 || targetNo >= this._count) {
+                    return false;
+                } else {
+                    this._target = targetPos;
+                    this._active = targetNo;
+                    this._animator.setAttribute('to', -targetPos + ',0');
+                    this._animator.beginElement();
+                }
+            },
+
+            tryRight: function () {
+                this.startTo(this._active + 1);
+            },
+
+            tryLeft: function () {
+                this.startTo(this._active - 1);
+            },
+
+            onKeyDown: function (e) {
+                if (e.ctrlKey && e.keyCode == 37) {
+                    this.tryLeft();
+                }
+
+                if (e.ctrlKey && e.keyCode == 39) {
+                    this.tryRight();
+                }
+            }
+        };
+
+
+        var elt = document.getElementById('imagesScroller');
+        var anim = document.getElementById('imagesAnimate');
+        var scroller = new Scroller(elt, anim, 50, 4);
+        // ]]>
+    </script>
+</svg>
