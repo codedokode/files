@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+    body { background: ; }
+    .wrap { display: inline-block; border: 2px solid #e0e0e0; margin: 2px; }
+    </style>
+</head>
+<body>
+    <!-- Does not work with github object data="sample.svgz" type="image/svg+xml" style="width: 720px; height: 287px;border: 1px grey dotted" -->
+    <div class="wrap">
+        <h2>Test object + img </h2>
+        <object data="sample.svg" type="image/svg+xml" 
+            style="width: 720px; height: 287px;border: 1px red dotted">
+            <img src="fallback-img.png" height="320" width="508" 
+                alt="Fallback via img tag">
+        </object>
+    </div>
+    <!--/object -->
+        
+    <div class="wrap">
+        <h2>Test object + bg img </h2>
+        <object data="sample.svg" type="image/svg+xml" style="width: 720px; height: 287px;border: 1px red dotted">
+            <span style="display: inline-block; height: 320px; width: 508px; 
+                background: url(fallback-bg.png) no-repeat 0 0; overflow: hidden;">
+                Fallback via span + bg-image</span>
+        </object>
+    </div>
+
+    <div class="wrap">
+        <h2>Object + size set via style</h2>
+        <object data="1.svg" type="image/svg+xml" 
+            style="width: 508px; height: 320px;border: 1px grey dotted">
+            Object failed to load
+        </object>
+    </div>
+
+    <div class="wrap">
+        <h2>Img src=svg and width 25%</h2>
+        <img src="1.svg" alt="Image with svg source" 
+            style="border: 1px grey dotted; display: block; width: 25%; ">
+    </div>
+
+    <div class="wrap" style="background-image: url(svg-pattern.svg); 
+        width: 200px; height: 50px;">SVG BG test</div>
+</body>
+</html>
